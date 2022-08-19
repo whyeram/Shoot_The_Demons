@@ -5,9 +5,6 @@ pygame.init()
 screen = pygame.display.set_mode((800, 500))
 #window title
 pygame.display.set_caption("Adventure Begins")
-#icon
-icon = pygame.image.load('witch.png')
-pygame.display.set_icon(icon)
 #Player
 player_img = pygame.image.load('spaceship.png')
 playerX = 30
