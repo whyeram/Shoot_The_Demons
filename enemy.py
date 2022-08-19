@@ -1,5 +1,5 @@
 #Enemy
-enemy_img = pygame.image.load('enemy.png')
+enemy_img = pygame.image.load('demon.png')
 enemyX = random.randint(0, 736)
 enemyY = random.randint(50, 150)
 enemyX_change = 0
